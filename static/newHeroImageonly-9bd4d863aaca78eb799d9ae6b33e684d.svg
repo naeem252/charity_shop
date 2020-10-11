@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="663px" height="647px" viewBox="0 0 663 647" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>newHeroImageonly</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="65.3311548%" y1="46.6449946%" x2="45.0521737%" y2="56.0133367%" id="linearGradient-1">
+            <stop stop-color="#071F35" offset="36%"></stop>
+            <stop stop-color="#4886C6" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0.0131306151%" y1="49.9802141%" x2="100.018314%" y2="49.9802141%" id="linearGradient-2">
+            <stop stop-color="#FBE1CD" offset="0%"></stop>
+            <stop stop-color="#FBE1CD" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50.0067323%" y1="50.0204091%" x2="49.9557785%" y2="49.8837184%" id="linearGradient-3">
+            <stop stop-color="#004A6A" stop-opacity="0" offset="2.18%"></stop>
+            <stop stop-color="#04344F" stop-opacity="0.3831" offset="39.65%"></stop>
+            <stop stop-color="#06253C" stop-opacity="0.7466" offset="75.21%"></stop>
+            <stop stop-color="#071F35" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50.0067567%" y1="50.0202926%" x2="49.9558923%" y2="49.8840911%" id="linearGradient-4">
+            <stop stop-color="#004A6A" stop-opacity="0" offset="2.18%"></stop>
+            <stop stop-color="#04344F" stop-opacity="0.3831" offset="39.65%"></stop>
+            <stop stop-color="#06253C" stop-opacity="0.7466" offset="75.21%"></stop>
+            <stop stop-color="#071F35" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50.0081674%" y1="50.0224231%" x2="49.9550795%" y2="49.8717005%" id="linearGradient-5">
+            <stop stop-color="#004A6A" stop-opacity="0" offset="2.18%"></stop>
+            <stop stop-color="#04344F" stop-opacity="0.3831" offset="39.65%"></stop>
+            <stop stop-color="#06253C" stop-opacity="0.7466" offset="75.21%"></stop>
+            <stop stop-color="#071F35" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="110.26312%" y1="68.6368847%" x2="122.62616%" y2="83.6772116%" id="linearGradient-6">
+            <stop stop-color="#4886C6" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#4284CD" stop-opacity="0.1545" offset="15.45%"></stop>
+            <stop stop-color="#317FE0" stop-opacity="0.6523" offset="65.23%"></stop>
+            <stop stop-color="#2B7DE7" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="20.6278136%" y1="22.2272416%" x2="81.1064897%" y2="98.6684274%" id="linearGradient-7">
+            <stop stop-color="#4886C6" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#4284CD" stop-opacity="0.1545" offset="15.45%"></stop>
+            <stop stop-color="#317FE0" stop-opacity="0.6523" offset="65.23%"></stop>
+            <stop stop-color="#2B7DE7" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Charity-box-illustration" transform="translate(-334.000000, -93.000000)">
+            <g id="newHeroImageonly" transform="translate(242.110000, 93.360000)">
+                <rect id="Rectangle" fill="#071F35" fill-rule="nonzero" x="224.06" y="35.01" width="312.75" height="527.02"></rect>
+                <rect id="Rectangle" fill="#F2F1E6" fill-rule="nonzero" x="233.4" y="45.75" width="293.15" height="516.28"></rect>
+                <g id="Group-4" transform="translate(92.430000, 562.490000)" fill="#004A6A" fill-rule="nonzero" stroke="#004A6A" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.75">
+                    <rect id="Rectangle" x="63.29" y="3.19744231e-14" width="598.16" height="27.43"></rect>
+                    <rect id="Rectangle" x="27.42" y="27.43" width="634.02" height="27.43"></rect>
+                    <rect id="Rectangle" x="0" y="54.88" width="661.45" height="28.68"></rect>
+                </g>
+                <g id="Group" transform="translate(228.890000, 355.640000)" fill="#23286B" fill-rule="nonzero">
+                    <g id="SVGID_1_-link" transform="translate(124.000000, 1.000000)">
+                        <path d="M6.17,14.58 C2.59,46.72 0.68,79.01 0.01,111.42 C6.95,111.54 13.71,114.83 20.34,120.43 L44.79,119.95 C44.81,95.05 46.18,69.93 48.97,44.58 C50.58,23.75 51.25,76.04 52.2,103.41 L54.62,101.31 L54.62,0.46 C37.64,8.5 21.39,13.6 6.17,14.58 Z" id="SVGID_1_"></path>
+                    </g>
+                </g>
+                <g id="Group-2" transform="translate(0.000000, 46.210000)">
+                    <path d="M358.59,325.01 C355.01,357.15 353.1,389.44 352.43,421.85 C359.37,421.97 366.13,425.26 372.76,430.86 L397.21,430.38 C397.23,405.48 398.6,380.36 401.39,355.01 C403,334.18 403.67,386.47 404.62,413.84 L407.04,411.74 L407.04,310.89 C390.06,318.93 373.81,324.03 358.59,325.01 Z" id="XMLID_3_" fill="url(#linearGradient-1)" fill-rule="nonzero" opacity="0.25"></path>
+                    <polyline id="Path" points="359.43 410.32 403.31 401.92 417.32 453.26"></polyline>
+                    <polygon id="Path" fill="#004A6A" fill-rule="nonzero" points="517.21 23.34 478.47 38.36 478.47 252.54 517.21 252.54"></polygon>
+                    <path d="M461.2,42.01 L422.46,55.8 C422.46,55.8 421.53,253 422.46,252.540804 C423.39,252.07 461.2,252.540804 461.2,252.540804 L461.2,42.01 Z" id="Path" fill="#004A6A" fill-rule="nonzero"></path>
+                    <polygon id="Path" fill="#004A6A" fill-rule="nonzero" points="479.4 482.66 479.4 282.42 517.21 282.42 517.21 495.74"></polygon>
+                    <polygon id="Path" fill="#004A6A" fill-rule="nonzero" points="422.45 466.01 422.45 282.42 460.26 282.42 460.26 478"></polygon>
+                    <path d="M405.89,123.8 C372.28,115.78 360.69,148.23 362.24,163.68 C363.5,180.19 358.67,189.1 349.11,194.59 C346.58,204.39 359.6,209.18 380.79,214.68 L405.89,123.8 Z" id="Path" fill="#D62929" fill-rule="nonzero"></path>
+                    <path d="M387.29,174.89 L379.97,197.46 C387.08,202.31 397.66,202.97 408.91,199.45 L408.91,174.35 C400.2,179.8 393.17,179.36 387.29,174.89 Z" id="Path" fill="#F2A19C" fill-rule="nonzero"></path>
+                    <path d="M387.29,174.89 L379.97,197.46 C387.08,202.31 397.66,202.97 408.91,199.45 L408.91,174.35 C400.2,179.8 393.17,179.36 387.29,174.89 Z" id="Path" fill="url(#linearGradient-2)" fill-rule="nonzero" opacity="0.24"></path>
+                    <path d="M418.25,151.32 C418.25,164.33 408.56,180.29 396.62,180.29 C384.67,180.29 374.99,164.33 374.99,151.32 C374.99,138.31 384.68,127.75 396.62,127.75 C408.57,127.75 418.25,138.3 418.25,151.32 Z" id="Path" fill="#FFBEB6" fill-rule="nonzero"></path>
+                    <ellipse id="Oval" stroke="#004A6A" stroke-width="2" cx="386.57" cy="150.35" rx="8.5" ry="7.15"></ellipse>
+                    <ellipse id="Oval" stroke="#004A6A" stroke-width="2" cx="408.98" cy="150.35" rx="8.5" ry="7.15"></ellipse>
+                    <path d="M405.89,130.02 C386.19,132 394.69,149.77 375.92,158.65 L364.49,152.87 C372.48,129.17 386.32,119.58 405.89,123.79 L405.89,130.02 Z" id="Path" fill="#D62929" fill-rule="nonzero"></path>
+                    <path d="M406.28,130.02 C386.58,132 396.07,154.41 377.31,163.29" id="Path" stroke="#D62929"></path>
+                    <path d="M382.31,189.14 C389.21,193.05 397.69,194.08 409.38,189.14 L409.38,316.46 C389.82,323.43 351.03,332.2 344.49,326.11 C336.27,305.82 356.52,297.86 353.83,258.09 C351,216.22 339.83,198.19 382.31,189.14 Z" id="Path" fill="#428DFC" fill-rule="nonzero"></path>
+                    <polygon id="Path" fill="#004A6A" fill-rule="nonzero" points="527.02 0 407.51 42.01 407.51 479.87 527.02 515.35"></polygon>
+                    <path d="M422.45,253.84 C422.68,244.83 429.35,236.77 439.57,229.23 C445.79,224.56 452.45,227.67 452.8,235.45 C452.8,240.9 446.13,258.02 438.81,262.09 C433.48,257.54 428.05,254.6 422.45,253.84 Z" id="Path" fill="#FBE1CD" fill-rule="nonzero"></path>
+                    <line x1="287.55" y1="430.86" x2="263.27" y2="394.45" id="Path" stroke="#4886C6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></line>
+                    <circle id="Oval" fill="#FBE1CD" fill-rule="nonzero" cx="342.63" cy="444.86" r="49.48"></circle>
+                    <circle id="Oval" fill="#E43B36" fill-rule="nonzero" cx="342.63" cy="444.86" r="25.21"></circle>
+                    <rect id="Rectangle" stroke="#071F35" stroke-width="1.99993013" fill="#071F35" fill-rule="nonzero" stroke-linecap="round" stroke-linejoin="round" transform="translate(414.477605, 444.854953) rotate(10.474992) translate(-414.477605, -444.854953) " x="376.668926" y="393.976731" width="75.6173582" height="101.756445"></rect>
+                    <rect id="Rectangle" stroke="#071F35" stroke-width="1.99993013" fill="#071F35" fill-rule="nonzero" stroke-linecap="round" stroke-linejoin="round" transform="translate(427.548148, 435.515757) rotate(10.474992) translate(-427.548148, -435.515757) " x="389.739469" y="384.637535" width="75.6173582" height="101.756445"></rect>
+                    <line x1="465.4" y1="432.26" x2="491.07" y2="393.51" id="Path" stroke="#4886C6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></line>
+                    <path d="M460.73,401.45 L392.58,389.31 L408.06,380.48 L471.94,392.11 C471.93,397.72 465.92,402.67 460.73,401.45 Z" id="Path" stroke="#071F35" stroke-width="2" fill="#F2F1E6" fill-rule="nonzero" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M384.17,225 C383.47,237.63 386.95,248.91 395.37,258.61 C398.17,261.41 410.33,252.98 417.78,245.54 C420.99,243.05 436.45,248.34 442.05,253.94 C447.57,259.97 442.29,263.25 434.58,267.94 C395.64,293.63 378.24,294.22 371.1,282.88 L353.36,253.94 C330.95,216.6 344.29,199.36 373.68,191.82 L384.17,225 Z" id="Path" fill="#428DFC" fill-rule="nonzero"></path>
+                    <rect id="Rectangle" fill="url(#linearGradient-3)" fill-rule="nonzero" opacity="0.51" x="92.43" y="570.78" width="660.99" height="28.68"></rect>
+                    <rect id="Rectangle" fill="url(#linearGradient-4)" fill-rule="nonzero" opacity="0.51" x="119.97" y="543.71" width="633.45" height="27.43"></rect>
+                    <rect id="Rectangle" fill="url(#linearGradient-5)" fill-rule="nonzero" opacity="0.51" x="155.91" y="516.64" width="597.5" height="27.43"></rect>
+                    <rect id="Rectangle" fill="#4886C6" fill-rule="nonzero" x="288.01" y="459.33" width="179.25" height="84.02"></rect>
+                    <polygon id="Path" fill="#A1C3FC" fill-rule="nonzero" points="287.55 430.86 276.34 468.2 478 468.2 466.8 430.86"></polygon>
+                </g>
+                <g id="Group" transform="translate(293.890000, 194.640000)" fill="url(#linearGradient-7)" fill-rule="nonzero">
+                    <g id="XMLID_1_-link" transform="translate(48.000000, 43.000000)">
+                        <path d="M42.28,33.57 C41.58,46.2 45.06,57.48 53.48,67.18 C56.28,69.98 68.44,61.55 75.89,54.11 C79.1,51.62 94.56,56.91 100.16,62.51 C105.68,68.54 100.4,71.82 92.69,76.51 C53.75,102.2 36.35,102.79 29.21,91.45 L11.47,62.51 C-10.94,25.17 2.4,7.93 31.79,0.39 L42.28,33.57 Z" id="XMLID_1_"></path>
+                    </g>
+                </g>
+                <path d="M407.52,177.37 C405.91,176.54 404.28,176.14 403.32,176.44 L405.19,169.9 C405.87,170.01 406.67,170.32 407.52,170.78" id="Path" fill="#D62929" fill-rule="nonzero"></path>
+                <rect id="Rectangle" fill="#071F35" fill-rule="nonzero" x="224.06" y="-3.55271368e-15" width="312.75" height="35.48"></rect>
+                <line x1="395.46" y1="196.37" x2="400.09" y2="196.37" id="Path" stroke="#004A6A" stroke-width="2"></line>
+            </g>
+        </g>
+    </g>
+</svg>
